@@ -29,7 +29,8 @@ setup(
     install_requires=[
         'flask>=1.0.2',
         'openapi-specgen>=0.0.6',
-        'marshmallow>=3.0.0'
+        'marshmallow>=3.0.0',
+        'python-dateutil>=2.8.2'
     ],
     entry_points={}
 )
